@@ -107,6 +107,12 @@ h2 {
     background-color: transparent;
 }
 
+#studentid {
+    color: white;
+    background-color: var(--highlight-color);
+    margin-left: 135px;
+}
+
 /* Footer / contact */
 
 #contact {
