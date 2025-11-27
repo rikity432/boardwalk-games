@@ -102,6 +102,11 @@ h2 {
     border: none;
 }
 
+/* join our events */
+#eventstable .table-light * {
+    background-color: transparent;
+}
+
 /* Footer / contact */
 
 #contact {
